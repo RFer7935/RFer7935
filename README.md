@@ -25,6 +25,3 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RFer7935&theme=tokyonight&hide_border=true" alt="streak stats" />
-</div>
