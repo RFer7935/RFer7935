@@ -22,5 +22,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats-neverphile.vercel.app/api?username=RFer7935&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats-neverphile.vercel.app/api?username=RFer7935/top-langs/&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats-neverphile.vercel.app/api/top-langs/?username=RFer7935&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
 </div>
